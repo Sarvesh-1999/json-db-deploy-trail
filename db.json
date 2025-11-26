@@ -1,0 +1,14 @@
+{
+  "employees": [
+    {
+      "id": "33a8",
+      "username": "Jane Doe",
+      "email": "jane@gmail.com",
+      "password": "123",
+      "empId": "EMP980",
+      "designation": "Developer",
+      "age": "28",
+      "dateOfJoining": "2025-10-27"
+    }
+  ]
+}
